@@ -1,0 +1,17 @@
+/* CountsComponent.css */
+.counts-container {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .counts-container h1 {
+    margin-bottom: 10px;
+  }
+  
+  .counts-container p {
+    margin: 5px 0;
+  }
+  
